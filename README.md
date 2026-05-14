@@ -34,7 +34,8 @@ actualmente, diversas tiendas de videojuegos operan bajo esquemas de registro ma
 * Vulnerabilidad ante extravío de datos de ventas. 
 * Complejidad para rastrear las compras de los clientes de forma eficiente. 
 
-###Objetivo del Sistema
+
+Objetivo del Sistema
 El propósito fundamental de este proyecto es implementar una base de datos relacional robusta que centralice y automatice la administración de juegos, clientes, consolas y transacciones. Se busca garantizar la integridad de los datos y optimizar el flujo de información mediante un diseño técnico estandarizado.
 
 ### Arquitectura Técnica
