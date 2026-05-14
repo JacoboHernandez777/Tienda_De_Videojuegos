@@ -1,6 +1,8 @@
 # Documentacion de nuestra tienda de videojuegos
+
 ### Objetivo
-- El objetivo de este proyecto es desarrollar una base de datos relacional para una tienda de videojuegos que permita administrar de manera eficiente la información relacionada con juegos, clientes, consolas y ventas.
+
+El objetivo de este proyecto es desarrollar una base de datos relacional para una tienda de videojuegos que permita administrar de manera eficiente la información relacionada con juegos, clientes, consolas y ventas.
 El sistema busca facilitar el control y organización de los registros, mejorar el flujo de información y garantizar la integridad de los datos mediante el uso de claves primarias y foráneas.
 Ademas, el proyecto pretende aplicar los conocimientos adquiridos sobre modelado de bases de datos y creación de relaciones entre entidades utilizando phpMyAdmin.
 
