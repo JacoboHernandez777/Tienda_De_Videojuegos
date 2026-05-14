@@ -1,15 +1,12 @@
 # Documentacion de nuestra tienda de videojuegos
 
 ### Objetivo
-
-El objetivo de este proyecto es desarrollar una base de datos relacional para una tienda de videojuegos que permita administrar de manera eficiente la información relacionada con juegos, clientes, consolas y ventas.
-El sistema busca facilitar el control y organización de los registros, mejorar el flujo de información y garantizar la integridad de los datos mediante el uso de claves primarias y foráneas.
-Ademas, el proyecto pretende aplicar los conocimientos adquiridos sobre modelado de bases de datos y creación de relaciones entre entidades utilizando phpM.
+El objetivo de nuestro proyecto es crear una data base relacional de las que se relasionan las tablas y asi para un tienda de videojuegos,diseñada para administrar eficientemente la informacion de los juegos, clientes, consolas y de las ventas. Lo que se busca con esto es organizar y controlar los registros, mejorar el flujo de informacion y asegurar la integridad de los datos  usando primary keys y las grisesitas que se llaman foraneas que permiten relacionar bion las diferentes entidades. Tambien, nuestro proyecto tiene como proposito aplicar los conocimientos que tenemos en modelado de database y en la cracion de relaciones entre entidades, utilizando PhpMyAdmin como herramineta principal.
 
 ### Integrantes del equipo
 #### Datos personales
 - Nombre Completo: Leonardo Vargas Lopez
-- Edad:17
+- Edad: 17
 - Correo Electronico: 23308060610434@cetis61.edu.mx
 - Especialidad: Programacion
 - Institucion: Cetis61
@@ -18,10 +15,10 @@ Ademas, el proyecto pretende aplicar los conocimientos adquiridos sobre modelado
 
  #### Datos personales
 - Nombre Completo: Víctor Manuel Jacobo Hernández
-- Edad:[17]
+- Edad: 17
 - Correo Electronico: 23308060610160@cetis61.edu.mx
 - Especialidad: Programacion
-- Institucion: [Cetis61]
+- Institucion: Cetis61
   #### fotografia
 <img width="236" height="248" alt="image" src="https://github.com/user-attachments/assets/494a8f96-0f8c-422e-a2de-f6f6f6474367" />
 
