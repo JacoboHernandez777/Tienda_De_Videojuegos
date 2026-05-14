@@ -1,4 +1,4 @@
-# Descripcin de nuestra tienda digital de videojuegos
+# Descripcion de nuestra tienda digital de videojuegos
 
 ### Objetivo
 El objetivo de este proyecto es crear una base de datos relacional para una tienda digital de videojuegos. La idea es administrar de forma eficiente la informacion de juegos, clientes, consolas y ventas. Con esto buscamos organizar y controlar los registros, mejorar el flujo de informacion y asegurar la integridad de los datos usando primary keys y llaves foraneas que permiten conectar bien las diferentes entidades.  
